@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499999080218",
+    "project_id": "linkapp-f6cd2",
+    "storage_bucket": "linkapp-f6cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499999080218:android:d46c3dbccee015b71eb6a3",
+        "android_client_info": {
+          "package_name": "com.example.linkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcwAfwCCYvaFxUpbkEahsgWr4ER9QPOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

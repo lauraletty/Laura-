@@ -1,0 +1,17 @@
+package com.example.linkapp.navigation
+
+const val HOME_URL = "home"
+const val SIGNUP_URL = "signup"
+const val LOGIN_URL = "login"
+const val DASHBOARD_URL = "dashboard"
+const val CALL_URL = "call"
+const val  NOSEBLEED_URL= "nosebleed"
+const val  FIRST_URL= "first"
+const val  ANKLE_URL= "ankle"
+const val  BURN_URL= "burn"
+const val  CHEST_URL= "chest"
+const val  BROKENLIMB_URL= "brokenlimb"
+const val  SPINAL_URL= "spinal"
+const val  FAINT_URL= "faint"
+const val  HEARTATTACK_URL= "heartattack"
+const val  SPLASH_URL= "splash"
